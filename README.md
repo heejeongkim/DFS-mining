@@ -1,5 +1,5 @@
 To run the program, enter following commands.
-=========================================================
+-------------------------------------------------
 make
 
 java NewAFP ./Dataset/[fileName].txt [support] [d/s]
