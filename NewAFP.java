@@ -41,7 +41,7 @@ public class NewAFP {
 		
 		String infile = args[0];
 		float supp = Float.parseFloat(args[1]);
-		if(args[2] == "s"){isDense = false;}
+		if(args[2].equals("s")){isDense = false;}
 		
 		long mEnd=0;
 		long bStart=0;
